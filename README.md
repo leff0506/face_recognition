@@ -1,1 +1,1 @@
-# face_recognition
+#Face detection + identity recognition
